@@ -49,6 +49,13 @@ Language: C++
 
 Compiler: g++ or any standard C++ compiler
 
+### 💡 Future Improvements
+Add support for Player vs Computer (AI mode).
+
+Create a graphical interface using SFML or SDL.
+
+Track and display player scores across rounds.
+
 
 ### 👨‍💻 Author
 Mohammad Abuzaid
