@@ -35,6 +35,8 @@ g++ -o tictactoe tictactoe.cpp
 
 4) Game ends when someone wins or it's a draw.
 
+---
+
 ### 📁 Features
 Clean console-based UI.
 
@@ -43,6 +45,8 @@ Validates input and prevents invalid or duplicate moves.
 Displays which player's turn it is.
 
 Offers option to play again after a game ends.
+
+---
 
 ### 🛠️ Tech Stack
 Language: C++
